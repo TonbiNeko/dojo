@@ -4,15 +4,20 @@
 3 コンフリクトするのは怖い 確かに　怖い　よー！
 5 hoge
 6 hoge
+4 ホゲ
+3 コンフリクトするのは怖い hoge
+5 ホゲ
+6 ホゲ
 7 hoge
-9 hoge
+9 hhge
 8 hoge
+10 ホゲ
 11 hoge
-12 hoge
-13 hoge
+12 ho
+13 ホげ
 14 hoge
+15 hogehoge
 15 hoge
-
 16 今日は癒し系でワーク
 17 卒業できるか不安、、、
 18 お茶を買った
